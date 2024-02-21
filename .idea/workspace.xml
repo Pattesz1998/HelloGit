@@ -23,9 +23,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.nationalize-client [compile].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "e0cd0f97",
+    "git-widget-placeholder": "d57732be",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/kisp1/Desktop/Szoftver_24/HelloGit",
     "settings.editor.selected.configurable": "preferences.JavaFX"
